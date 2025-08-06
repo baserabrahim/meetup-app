@@ -1,0 +1,1 @@
+LinkUp is a lightweight web app designed to bring people together in the real world. Users can post, discover, and join in-person meetups—everything from tutoring sessions and study groups to pick-up sports games and casual hangouts. LinkUp’s goal is to cut through endless scrolling and get people face-to-face around shared interests.
